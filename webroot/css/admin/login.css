@@ -1,0 +1,114 @@
+html, body{
+	background: #eee
+}
+a{text-decoration: none;}
+a:hover{text-decoration: underline;}
+#login{
+	width: 260px;
+	border: 1px solid #aaa;
+	margin: 0 auto;
+	padding: 30px;
+	background: #fff;
+	box-shadow: 0 0 4px #aaa;
+	position: relative;
+}
+#login input{
+	padding: 4px 2px;
+	margin: 0;
+}
+#login input.larger{
+	width: 250px;
+}
+#login td{
+	padding: 6px 0;
+}
+#login tr.submit input{
+	border: none;
+	background: #F6D901;
+	padding: 8px 15px;
+	color: #333;
+	margin-right: 10px;
+}
+#login tr.submit input:hover{
+	cursor: pointer;
+	background-color: #ffba00;
+}
+#login td a.forget{
+	font-size: 13px;
+	font-style: italic;
+	color: #777;
+}
+
+/*forget_passwor*/
+#forget_password{
+	width: 323px;
+	border: 1px solid #aaa;
+	margin: 160px auto;
+	padding: 10px 30px 30px 30px;
+	background: #fff;
+	box-shadow: 0 0 4px #aaa;
+	position: relative;
+}
+#forget_password input{
+	padding: 4px 2px;
+	margin: 0;
+}
+#forget_password input.larger{
+	width: 309px;
+	display:block;
+}
+#forget_password .im{
+	color:red;
+}
+#forget_password td{
+	padding: 6px 0;
+}
+#forget_password tr.submit input{
+	border: none;
+	background: #F6D901;
+	padding: 8px 15px;
+	color: #333;
+	margin-right: 10px;
+}
+#forget_password tr.submit input:hover{
+	cursor: pointer;
+	background-color: #ffba00;
+}
+#forget_password td a.forget{
+	font-size: 13px;
+	font-style: italic;
+	color: #777;
+}
+#forget_password .title{
+	margin:0 0 10px;
+	padding:0;
+}
+/*** #tooltip ***/
+#tooltip{
+	position:absolute;
+	border-radius: 2px;
+	padding:5px 12px;
+	color:#fff;
+	display:none;
+	font-size: 13px;
+	z-index: 1000;
+	background: #000;
+	opacity: 0.8;
+}
+#login a.design{
+	position: absolute;
+	bottom: 2px;
+	right: 6px;
+	color: #777;
+	font-size: 11px;
+}
+#flashMessage,
+#authMessage {
+	color: #ff0000;
+	font-style: italic;
+	text-align: center;
+	background: #FFFBE0;
+	border: 1px solid #EDE6BD;
+	padding: 3px 0;
+	border-radius: 5px;
+}

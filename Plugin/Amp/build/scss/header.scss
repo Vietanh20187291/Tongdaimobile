@@ -1,0 +1,89 @@
+#header {
+    background: #fff;
+    /*padding: 5px 0;*/
+    padding: 10px 0 10px 0;
+    border-bottom: 1px solid $color_1;
+    float: left;
+    width: 100%;
+
+    .cart {
+        line-height: 32px;
+        float: right;
+        width: 65px;
+        margin: 0;
+
+        .input-group-btn {
+            background-color: $color_1;
+            float: left;
+            width: 30px;
+            height: 30px;
+
+            .icon_cart {
+                background-position: -71px -216px;
+                width: 30px;
+                height: 30px;
+                display: block;
+            }
+        }
+        .sp {
+            display: none;
+        }
+
+        .link_cart {
+            float: left;
+            padding:0 10px;
+            display: block;
+            border: 1px solid #ddd;
+            line-height: 29px;
+            border-left: none;
+            text-align: center;
+        }
+    }
+
+    .logo {
+        height: 85px;
+        line-height: 85px;
+        float: left;
+
+        img {
+            /*max-width: 200px;*/
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
+    }
+}
+
+span.number_product_cart {
+    background-color: #ffde00;
+    padding: 1px 3px;
+    border-radius: 5px;
+    color: red;
+    font-weight: 700;
+}
+
+#call_top {
+    position: fixed;
+    top: 0;
+    display: block;
+    left: 0;
+    z-index: 123;
+    width: 100%;
+
+    .call_top {
+        background-color: #eee;
+        padding: 5px 10px;
+
+        .tel {
+            color: orange;
+            font-weight: 600;
+        }
+    }
+}
+
+#header_top {
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    margin-top: 30px;
+}

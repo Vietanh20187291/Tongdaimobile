@@ -1,0 +1,6 @@
+.sidebar .box{
+	z-index: 100;
+}
+.sidebar .nav-v ul li ul{
+	z-index: 200;
+}

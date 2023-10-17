@@ -1,0 +1,837 @@
+------------------------------------
+------ Kích hoạt hiển thị -------
+------------------------------------
+
+msgid "Sản phẩm Hot"
+msgstr "Hot Products"
+
+msgid "Sản phẩm khuyến mãi"
+msgstr "Promotional Products"
+
+msgid "Sản phẩm mới"
+msgstr "New Products"
+
+msgid "Sản phẩm ưa chuộng"
+msgstr "Popular Products"
+
+msgid "Tin mới"
+msgstr "Latest News"
+
+msgid "Tin khuyến mãi"
+msgstr "Promotion News"
+
+msgid "bài viết"
+msgstr "post"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+
+------------------------------------
+------------- HEADER ---------------
+------------------------------------
+
+msgid "Hỏi đáp"
+msgstr "FAQs"
+
+msgid "Hình ảnh"
+msgstr "Gallery"
+
+msgid "Tài liệu"
+msgstr "Document"
+
+msgid "Thông tin đang được cập nhật. Bạn vui lòng trở lại sau."
+msgstr "Information is being updated. Please come back later."
+
+msgid "Trang chủ"
+msgstr "Home"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+------------------------------------
+------------ END HEADER ------------
+------------------------------------
+
+------------------------------------
+------------- SIDEBAR --------------
+------------------------------------
+
+msgid "Chat yahoo với"
+msgstr "Yahoo chat with"
+
+msgid "Chat skype với"
+msgstr "Skype chat with"
+
+msgid "Thích"
+msgstr "Like"
+
+msgid "Trả lời"
+msgstr "Answer"
+
+msgid "Hãng sản xuất"
+msgstr "Manufacture"
+
+msgid "Tìm kiếm"
+msgstr "Search"
+
+msgid "Chọn khoảng giá"
+msgstr "Price"
+
+msgid "Từ"
+msgstr "From"
+
+msgid "đến"
+msgstr "to"
+
+msgid "Trên"
+msgstr "Up"
+
+msgid "Hỗ trợ trực tuyến"
+msgstr "Online Support"
+
+msgid "Đối tác"
+msgstr "Partners"
+
+msgid "Quảng cáo"
+msgstr "Advertises"
+
+msgid "Thống kê"
+msgstr "Counter"
+
+msgid "Hôm qua"
+msgstr "Yesterday"
+
+msgid "Hôm nay"
+msgstr "Today"
+
+msgid "Trong tuần"
+msgstr "This week"
+
+msgid "Trong tháng"
+msgstr "This Month"
+
+msgid "Trong năm"
+msgstr "This year"
+
+msgid "Tổng"
+msgstr "Total"
+
+msgid "Sản phẩm"
+msgstr "Product"
+
+msgid "Bài viết"
+msgstr "Post"
+
+msgid "Giỏ hàng"
+msgstr "Your Cart"
+
+msgid "Giỏ hàng có"
+msgstr "Your cart has"
+
+msgid "Thanh toán"
+msgstr "Payment"
+
+msgid "Đăng ký"
+msgstr "Register"
+
+msgid "Thống kê"
+msgstr "Counter"
+
+msgid "Hôm qua"
+msgstr "Yesterday"
+
+msgid "Hôm nay"
+msgstr "Today"
+
+msgid "Trong tuần"
+msgstr "This week"
+
+msgid "Trong tháng"
+msgstr "This month"
+
+msgid "Trong năm"
+msgstr "This year"
+
+msgid "Tổng"
+msgstr "Total"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+------------------------------------
+----------- END SIDEBAR ------------
+------------------------------------
+
+------------------------------------
+------------- CONTENT --------------
+------------------------------------
+
+msgid "Bạn chưa nhập tên"
+msgstr "You did not enter a name"
+
+msgid "Bạn chưa nhập ý kiến"
+msgstr "You did not enter comments"
+
+msgid "Bạn chưa nhập email"
+msgstr "You have not entered an email"
+
+msgid "Cảm ởn bạn đã cho ý kiến"
+msgstr "Thank you for the comments"
+
+msgid "Ý kiến của bạn"
+msgstr "Your comments"
+
+msgid "Họ tên"
+msgstr "Full name"
+
+msgid "Đồng ý"
+msgstr "OK"
+
+msgid "Có"
+msgstr "Have"
+
+msgid "ý kiến"
+msgstr "comments"
+
+msgid "Viết nhận xét"
+msgstr "Write a comment"
+
+msgid "Mã xác nhận sai"
+msgstr "Security Code incorrect"
+
+msgid "Mã bảo vệ"
+msgstr "Security Code"
+
+msgid "sao"
+msgstr "star"
+
+msgid "Đánh giá"
+msgstr "Rate"
+
+msgid "tháng"
+msgstr "month"
+
+msgid "Cảm ởn bạn đã đánh giá"
+msgstr "Thank you rate"
+
+msgid "Sắp xếp"
+msgstr "Sort"
+
+msgid "Tên"
+msgstr "Name"
+
+msgid "Chi tiết"
+msgstr "More"
+
+msgid "Giá"
+msgstr "Price"
+
+msgid "Thành tiền"
+msgstr "Price"
+
+msgid "Bạn đã sử dụng chức năng này."
+msgstr "You have to use this function."
+
+msgid "Bạn phải đợi 24h nữa mới được sử dụng tiếp."
+msgstr "You must wait 24 hours to be used to."
+
+msgid "Tải về"
+msgstr "Download"
+
+msgid "Chi tiết"
+msgstr "More"
+
+msgid "Những câu hỏi thường gặp"
+msgstr "Frequently Asked Questions"
+
+msgid "Câu hỏi"
+msgstr "Questions"
+
+msgid "Thường gặp nhất"
+msgstr "Most Frequently Asked Questions"
+
+msgid "Kết quả"
+msgstr "Results"
+
+msgid "sản phẩm"
+msgstr "products"
+
+msgid "Kết quả tìm kiếm"
+msgstr "Search results"
+
+msgid "Xem tất cả"
+msgstr "All"
+
+msgid "Trang này không tồn tại"
+msgstr "This page does not exist"
+
+msgid "Liên hệ"
+msgstr "Contact Us"
+
+msgid "Tiêu đề"
+msgstr "Subject"
+
+msgid "Địa chỉ"
+msgstr "Address"
+
+msgid "Điện thoại"
+msgstr "Phone"
+
+msgid "Nội dung"
+msgstr "Message"
+
+msgid "Gửi"
+msgstr "Send"
+
+msgid "Liên hệ với chúng tôi bằng cách điền thông tin vào mẫu dưới đây"
+msgstr "Contact us by filling out the form below"
+
+msgid "Có lỗi, bạn vui lòng thử lại."
+msgstr "Error, please try again."
+
+msgid "Cảm ơn bạn đã liên hệ với chung tôi, chúng tôi sẽ sớm trả lời bạn."
+msgstr "Thank you for contacting us, we will reply you soon."
+
+msgid "Đang xử lý..."
+msgstr "Processing..."
+
+msgid "Liên quan"
+msgstr "Related"
+
+msgid "Bảo hành"
+msgstr "Warranty"
+
+msgid "Hãng"
+msgstr "Manufacture"
+
+msgid "Tiết kiệm"
+msgstr "Save"
+
+msgid "Tình trạng"
+msgstr "Status"
+
+msgid "Còn hàng"
+msgstr "In stock"
+
+msgid "Hết hàng"
+msgstr "Out of stock"
+
+msgid "Bạn có chắc chắn muốn xóa sản phẩm này không"
+msgstr "Are you sure you want to delete this product?"
+
+msgid "Giỏ hàng trống"
+msgstr "Your cart is empty"
+
+msgid "Thông tin giao hàng"
+msgstr "Information delivery"
+
+msgid "Xác nhận - Thanh toán"
+msgstr "Confirmation - Payment"
+
+msgid "SL"
+msgstr "Qty"
+
+msgid "Mã đơn hàng"
+msgstr "Order Code"
+
+msgid "Thông tin đang được cập nhật..."
+msgstr "Information is being updated..."
+
+msgid "Sơ đồ"
+msgstr "Sitemap"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+------------------------------------
+----------- END CONTENT ------------
+------------------------------------
+
+------------------------------------
+------------- FOOTER ---------------
+------------------------------------
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+------------------------------------
+----------- END FOOTER -------------
+------------------------------------
+
+
+
+------------------------------------
+----------- END ADMIN -------------
+------------------------------------
+msgid "Cấu hình"
+msgstr "Config"
+
+msgid "Trang thông tin"
+msgstr "Page"
+
+msgid "Tất cả"
+msgstr "All"
+
+msgid "Danh mục"
+msgstr "Category"
+
+msgid "Thuế"
+msgstr "Tax"
+
+msgid "Tiền tệ"
+msgstr "Currency"
+
+msgid "Chọn danh mục"
+msgstr "Category"
+
+msgid "Chọn hãng sản xuất"
+msgstr "Manufacture"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+------------------------------------
+----------- END ADMIN -------------
+------------------------------------

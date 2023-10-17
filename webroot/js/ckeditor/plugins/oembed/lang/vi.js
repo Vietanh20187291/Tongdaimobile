@@ -1,0 +1,21 @@
+CKEDITOR.plugins.setLang('oembed', 'vi', {
+    title: "Nhúng nội dung đa phương tiện (Hình ảnh, Video, Âm thanh, Rich)",
+    button: "Embed Media Content from Various Sites",
+    pasteUrl: "Nhập liên kết URL (Hỗ trợ cả URL dạng rút ngắn) từ các trang được hỗ trợ(VD: YouTube, Flickr, Qik, Vimeo, Hulu, Viddler, MyOpera, etc.) ...",
+    invalidUrl: "Định dạng URL không hợp lệ.",
+    noEmbedCode: "Mã nhúng (Embed) không tìm thấy, hoặc trang web này không được hỗ trợ.",
+    url: "URL:",
+    width: "Rộng:",
+    height: "Cao:",
+    widthTitle: "Chiều rộng",
+    heightTitle: "Chiều cao",
+    maxWidth: "Max. Rộng:",
+    maxHeight: "Max. Cao:",
+    maxWidthTitle: "Chiều rộng lớn nhất",
+    maxHeightTitle: "Chiều cao lớn nhất",
+    resizeType: "Resize Type (Only Video's):",
+    noresize: "No Resize (use default)",
+    responsive: "Responsive Resize",
+    custom: "Specific Resize",
+    autoClose: "Automatically Close Dialog after Code is Embeded"
+});

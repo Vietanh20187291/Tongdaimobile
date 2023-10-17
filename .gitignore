@@ -1,0 +1,9 @@
+Config/database.php
+tmp/
+webroot/cache
+webroot/all-sitemap.xml
+webroot/sitemap*
+tmp/logs/error.log
+.idea/
+node_modules/
+/webroot/webroot/img/images

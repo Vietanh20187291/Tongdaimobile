@@ -1,0 +1,199 @@
+.out-of-stock-email-notification {
+  background-color: #fff;
+  display: none;
+  border: 1px solid rgba(54, 54, 45, 0.3);
+  margin-bottom: 15px;
+  position: relative;
+  z-index: 9999;
+  top: -10px;
+
+	&:before {
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 7px 9px 7px;
+    border-color: transparent transparent #363636 transparent;
+    position: absolute;
+    top: -8px;
+    right: 75px;
+    z-index: 9999;
+	}
+
+	.form-inline {
+		.form-control {
+	    width: 100%;
+
+	    margin-bottom: 10px;
+	    height: 45px;
+	    width: 100%;
+	    border: 1px solid #ccc;
+	    color: #363636;
+	    background-color: #fff;
+	    border-radius: 0;
+	  }
+
+	  button {
+      height: 45px;
+      box-shadow: none;
+      background-color: #00a651;
+      color: #fff;
+      border: 1px solid #00a651;
+      border-radius: 0;
+      padding: 0 5px;
+      width: 150px;
+      float: right;
+	  }
+	}
+
+	.pre-text {
+    font-weight: 300;
+    margin-bottom: 5px;
+	}
+
+	.close-notification-label {
+    float: left;
+    text-align: center;
+    line-height: 45px;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: calc(100% - 165px);
+    width: -moz-calc(100% - 165px);
+    width: -webkit-calc(100% - 165px);
+    width: -o-calc(100% - 165px);
+    display: block;
+	}
+	.close-notification-label * {
+	    cursor: pointer;
+	}
+
+	.close-notification-label_close {
+	    float: none;
+	    clear: both;
+	    display: none;
+	}
+
+
+	.block_title {
+    display: block;
+    background-color: #363636;
+    text-transform: uppercase;
+    font-size: 18px;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+  }
+
+  .block_content {
+    padding: 8px;
+
+    .name {
+      display: block;
+      margin-bottom: 17px;
+      font-weight: normal;
+    }
+
+    .product-options {
+    	li {
+		    display: inline-block;
+		    vertical-align: top;
+		    margin-right: 26px;
+		    color: #ccc;
+		    margin-bottom: 13px;
+		  }
+
+		  li + li {
+		      margin-right: 0;
+		  }
+
+		  .swatch-title {
+	      display: inline-block;
+	      vertical-align: top;
+	      line-height: 25px;
+	      margin-right: 8px;
+		  }
+
+		  .swatch-label_text {
+	      border: 1px solid #ccc;
+	      padding: 0 3px;
+	      line-height: 23px;
+		  }
+
+		  .swatch-label {
+	      height: 25px;
+	      min-width: 25px;
+	      display: inline-block;
+	      vertical-align: top;
+	      text-align: center;
+
+	      img {
+          display: block;
+          width: 100%;
+          height: 100%;
+	      }
+		  }
+		}
+  }
+}
+
+.notification-label-stock {
+	&:after {
+    content: "";
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(54, 54, 54, 0.3);
+    z-index: 9999;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+  }
+
+  &.active {
+  	&:after {
+      opacity: 1;
+      visibility: visible;
+      -webkit-transition: 0.3s;
+      -o-transition: 0.3s;
+      transition: 0.3s;
+    }
+  }
+
+  &:before {
+    content: "";
+    width: 14px;
+    height: 10px;
+    border-style: solid;
+    border-width: 5px 10px 5px 0;
+    border-color: transparent #ccc transparent transparent;
+    position: absolute;
+    top: 45%;
+    margin-top: -5px;
+    left: 3px;
+    background: url(http://staging-a.canifa.com/skin/frontend/canifa/default/images/sprites.png);
+    background-position: -277px -26px;
+    z-index: 999;
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(54, 54, 54, 0.3);
+    z-index: 9999;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+  }
+}

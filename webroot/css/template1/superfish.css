@@ -1,0 +1,154 @@
+
+.sf-menu, .sf-menu * {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.sf-menu {
+    height: 45px;
+    line-height: 1;
+}
+.sf-menu ul {
+    position: absolute;
+    top: -999em;
+    width: 10em;
+}
+.sf-menu ul li {
+    width: 100%;
+}
+.sf-menu li:hover {
+    visibility: inherit;
+}
+.sf-menu li {
+    float: left;
+    position: relative;
+}
+.sf-menu a {
+    display: block;
+    float: left;
+    position: relative;
+}
+.sf-menu li:hover ul, .sf-menu li.sfHover ul {
+    left: -1px;
+    top: 45px;
+    z-index: 99;
+}
+ul.sf-menu li:hover li ul, ul.sf-menu li.sfHover li ul {
+    top: -999em;
+      text-decoration: none;
+}
+ul.sf-menu li li:hover ul, ul.sf-menu li li.sfHover ul {
+    left: 10em;
+    top: 0;
+}
+ul.sf-menu li li:hover li ul, ul.sf-menu li li.sfHover li ul {
+    top: -999em;
+}
+ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
+    left: 10em;
+    top: 0;
+}
+.sf-menu {
+    float: left;
+    margin-right: 0;
+}
+.sf-menu a {
+     font-size: 13px;
+/*     font-weight: bold; */
+    height: 45px;
+    padding: 7px 30px 7px 8px;
+    text-decoration: none;
+	line-height: 17px;
+    text-transform: none;
+}
+.sf-menu a, .sf-menu a:visited {
+    color: #fff;
+}
+.sf-menu li a {
+   /* border-top: 4px solid #003594;*/
+}
+.sf-menu li {
+}
+.sf-menu .item1711 a {
+    background: none repeat scroll 0 0 #f58228;
+    border-bottom: 6px solid #f58228;
+    border-top: 4px solid #003594;
+    height: 43px;
+}
+.sf-menu li li a {
+     font-size: 13px;
+    font-weight: normal;
+    height: 30px;
+    line-height:12px;
+    text-transform: none;
+  /*  width: 233px !important;*/  /*neu can fix chieu dai thi mo khoa*/
+   /* white-space: nowrap;*/
+    
+}
+.sf-menu li li li {
+}
+.sf-menu li li li li {
+    background: none repeat scroll 0 0 #003594;
+}
+.sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
+    /*border-top: 4px solid #f58228;*/
+    outline: 0 none;
+}
+.sf-menu li li a, .sf-menu li.first li a {
+	white-space: nowrap;
+/*	border-top:1px solid #FAFAFA;*/
+	border-bottom:1px solid #0653a8;
+	background:#054082 none repeat scroll 0 0;
+	color: #fff;
+}
+.sf-menu li li a:focus, .sf-menu li li a:hover, .sf-menu li li a:active {
+    background: #032f5f none repeat scroll 0 0;
+    color: #fff;
+    outline: 0 none;
+    text-decoration: none;
+}
+.sf-menu a.sf-with-ul {
+    min-width: 1px;
+    padding-right:1.25em;
+    /*padding-right: 2.25em;*/
+}
+.sf-sub-indicator {
+	/*neu can span o menu nav thi mo background ra*/
+   /* background: url("img/HOME_21.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);*/
+   /* display: block;
+    height: 8px;
+    overflow: hidden;
+    position: absolute;
+    right: 0.75em;
+    text-indent: -999em;
+    top: 15px;
+    width: 14px;*/
+}
+a:hover > .sf-sub-indicator {
+	/*neu can span o menu nav thi mo background ra*/
+   /* background: url("img/HOME_21.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);*/
+}
+a > .sf-sub-indicator {
+    top: 14px;
+}
+.sf-menu li li a.sf-with-ul {
+    padding-right: 10px;
+}
+a:focus > .sf-sub-indicator, a:hover > .sf-sub-indicator, a:active > .sf-sub-indicator, li:hover > a > .sf-sub-indicator, li.sfHover > a > .sf-sub-indicator {
+}
+.sf-menu ul .sf-sub-indicator {
+}
+.sf-menu ul a > .sf-sub-indicator {
+	/*neu can span o menu nav thi mo background ra*/
+    /*background: url("HOME_28.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 14px;
+    top: 12px;
+    width: 8px;*/
+}
+.sf-menu ul a:focus > .sf-sub-indicator, .sf-menu ul a:hover > .sf-sub-indicator, .sf-menu ul a:active > .sf-sub-indicator, .sf-menu ul li:hover > a > .sf-sub-indicator, .sf-menu ul li.sfHover > a > .sf-sub-indicator {
+}
+.sf-shadow ul {
+}
+.sf-shadow ul.sf-shadow-off {
+    background: none repeat scroll 0 0 transparent;
+}

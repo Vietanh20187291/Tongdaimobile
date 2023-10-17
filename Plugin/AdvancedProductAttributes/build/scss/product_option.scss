@@ -1,0 +1,282 @@
+#product-options-wrapper {
+    border: none;
+    float: left;
+    width: 100%;
+}
+
+fieldset#product-options-wrapper {
+  margin: 0;
+  padding: 0;
+}
+
+.product-options {
+  .required {
+    display: none;
+	}
+
+  .input-box {
+    position: relative;
+	}
+
+	select {
+    width: 100%;
+    background-position: center right 17px;
+    margin: 0 0 10px 0 !important;
+    color: #000;
+
+    option {
+      padding: 5px 10px;
+      font-size: 16px;
+    }
+	}
+
+	dd.swatch-attr {
+    margin-bottom: 15px;
+    position: relative;
+	}
+
+	dl.last {
+    padding-top: 20px;
+	}
+	.swatch-attr {
+    color: #252525;
+    font-size: 16px;
+    text-transform: uppercase;
+    position: relative;
+
+    &:after {
+      clear: both;
+    }
+
+    &:before, &:after {
+      content: "";
+      display: table;
+    }
+
+    label {
+      display: block;
+      font-size: 14px;
+      /*color: #cccccc;*/
+      float: left;
+      font-weight: normal;
+
+      .select-label {
+        color: #363636;
+        text-transform: uppercase;
+      }
+    }
+    em {
+      margin-right: 6px;
+      color: #eb1c23;
+      display: none;
+    }
+    .required {
+      display: block;
+    }
+	}
+
+  .product-detail-option-desc {
+    position: static;
+    cursor: pointer;
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: 300;
+    float: right;
+    text-transform: none;
+    height: 20px;
+    padding-left: 38px;
+    background-position: center left 6px;
+    background-repeat: no-repeat;
+    background-image: url(https://canifa.com/skin/frontend/canifa/default/images/icon_sizeChart2.png);
+    border-left: 1px solid #ebebeb;
+    line-height: 20px;
+    color: #686868;
+
+    a, span,  p {
+      cursor: pointer;
+      line-height: 20px;
+      display: block;
+      color: #686868;
+    }
+  }
+}
+
+
+.product-detail-option-desc {
+    font-size: 12px;
+}
+
+#configurable_swatch_size {
+	li {
+		&.not-available {
+			&:after {
+		    top: 0;
+		    right: 0;
+		    transform: rotate(-45deg);
+		    transform-origin: top right;
+		  }
+
+		  &:after, &:before {
+		    content: "";
+		    width: 100px;
+		    height: 1px;
+		    background-color: #969696;
+		    position: absolute;
+		    z-index: 2;
+		  }
+
+		  &:before {
+	      top: 0;
+	      left: 0;
+	      transform: rotate(45deg);
+	      transform-origin: top left;
+	      visibility: unset;
+		  }
+	  }
+	}
+}
+
+
+
+
+.configurable-swatch-list {
+	li {
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 3px 5px 0;
+    position: relative;
+    overflow: hidden;
+
+    &.not-available {
+      .swatch-link {
+        &:before, &:after {
+          content: "";
+          width: 100px;
+          height: 1px;
+          background-color: #fff;
+          position: absolute;
+          z-index: 2;
+        }
+        &:before {
+          top: 0;
+          left: 0;
+          -webkit-transform: rotate(45deg);
+          -ms-transform: rotate(45deg);
+          -o-transform: rotate(45deg);
+          transform: rotate(45deg);
+          -webkit-transform-origin: top left;
+          -moz-transform-origin: top left;
+          -ms-transform-origin: top left;
+          transform-origin: top left;
+        }
+
+        &:after {
+          top: 0;
+          right: 0;
+          -webkit-transform: rotate(-45deg);
+          -ms-transform: rotate(-45deg);
+          -o-transform: rotate(-45deg);
+          transform: rotate(-45deg);
+          -webkit-transform-origin: top right;
+          -moz-transform-origin: top right;
+          -ms-transform-origin: top right;
+          transform-origin: top right;
+        }
+      }
+    }
+  }
+
+  .selected .swatch-link, .hover .swatch-link {
+    border: 2px solid #eb1c23!important;
+  }
+
+  .swatch-link {
+    text-decoration: none;
+    border: 1px solid #cccccc;
+    display: block;
+    text-align: center;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    width: 25px !important;
+    height: 25px !important;
+    line-height: 23px;
+
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    .swatch-label {
+      display: block;
+      width: 100% !important;
+      height: 100% !important;
+      cursor: pointer;
+      text-transform: uppercase;
+      font-size: 10.5px;
+      font-family: Arial;
+    }
+  }
+
+  .x {
+    display: none !important;
+  }
+}
+
+.no-display {
+    display: none;
+}
+
+.notification-label-stock {
+	display: none;
+  background-color: #cccccc;
+  font-size: 12px;
+  color: #363636;
+  padding-left: 27px;
+  padding-right: 8px;
+  line-height: 24px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-right: 12px;
+  white-space: nowrap;
+  z-index: 555;
+  border-radius: 3px;
+
+	&:before {
+    content: "";
+    width: 14px;
+    height: 10px;
+    border-style: solid;
+    border-width: 5px 10px 5px 0;
+    border-color: transparent #ccc transparent transparent;
+    position: absolute;
+    top: 45%;
+    margin-top: -5px;
+    left: 3px;
+    background: url(http://staging-a.canifa.com/skin/frontend/canifa/default/images/sprites.png);
+    background-position: -277px -26px;
+    z-index: 999;
+  }
+
+  &:after {
+    content: "";
+    display: block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(54, 54, 54, 0.3);
+    z-index: 9999;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+	}
+}

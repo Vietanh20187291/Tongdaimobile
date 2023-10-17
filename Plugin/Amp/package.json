@@ -1,0 +1,24 @@
+{
+    "name": "gulpfile_generator",
+    "version": "1.1.0",
+    "description": "This is a genarator for gulpfile and package.json",
+    "author": "URL",
+    "license": "MIT License",
+    "keywords": "gulp",
+    "devDependencies": {
+        "es6-promise": "*",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "*",
+        "gulp-clean-css": "*",
+        "gulp-concat": "*",
+        "gulp-csscomb": "*",
+        "gulp-environments": "*",
+        "gulp-merge-media-queries": "*",
+        "gulp-plumber": "*",
+        "gulp-sass": "*",
+        "gulp-sourcemaps": "*"
+    },
+    "dependencies": {
+        "npm": "^6.7.0"
+    }
+}

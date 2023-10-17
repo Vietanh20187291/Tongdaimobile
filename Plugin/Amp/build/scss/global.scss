@@ -1,0 +1,62 @@
+body {
+    line-height: 20px;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+
+    a {
+        color: #333;
+    }
+}
+
+* {
+  outline: none;
+  font-family: Arial, sans-serif;
+}
+
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#content {
+    min-height: calc(100vh - 312px);
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+
+.clearfix {
+    clear: both;
+}
+
+.icon_oneweb {
+    background-image: url(../../css/template1/img/icon.png);
+}
+header.title h1, header.title h2 {
+    font-weight: 700;
+    font-size: 15px;
+}
+header.title {
+    border-bottom: 1px solid $color_1;
+    padding: 0;
+    margin: 0 0 15px 0;
+    text-transform: uppercase;
+    line-height: 20px;
+}
+.read header.title {
+    margin-bottom: 10px;
+}
+
+.des p {
+    line-height: 21px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.text-center {
+    text-align: center;
+}

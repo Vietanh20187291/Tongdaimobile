@@ -1,0 +1,13 @@
+User-agent: Googlebot
+Allow: /
+Disallow:  
+User-agent: Googlebot-image
+Allow:/
+Disallow:  
+User-agent: *
+Disallow: /ajax
+Disallow: /webroot
+User-Agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /

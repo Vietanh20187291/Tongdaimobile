@@ -1,0 +1,25 @@
+.related {
+	#show_post_related {
+		ul {
+	    float: left;
+	    padding: 0;
+	    margin: 10px 0;
+	    list-style: none;
+
+	    li {
+	    	.dot {
+			    background: url(../../css/template1/img/icon.png) -204px -119px no-repeat;
+			    width: 15px;
+			    height: 15px;
+			    display: block;
+			    float: left;
+			  }
+			}
+	  }
+	}
+}
+
+a.name {
+    font-size: 16px;
+    font-weight: bold;
+}

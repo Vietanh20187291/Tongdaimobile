@@ -1,0 +1,2 @@
+msgid "Home"
+msgstr "Trang chủ"
