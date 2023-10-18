@@ -7,3 +7,4 @@ tmp/logs/error.log
 .idea/
 node_modules/
 /webroot/webroot/img/images
+/webroot/img/images
