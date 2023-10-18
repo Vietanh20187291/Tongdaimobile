@@ -1,7 +1,6 @@
 <div id="column_left">
 	<div id="left_top">
-		<?php echo $this->Html->link($this->Html->image('admin/logo2.png',array('alt'=>'Thiết kế bởi URL.vn')),'/',array('title'=>__('Trang chủ',true),'target'=>'_blank','escape'=>false,'class'=>'logo tooltip'))?>
-	</div> <!--  end #left_top -->
+	<?php echo $this->Html->link(__('TỔNG ĐÀI MOBILE'), '/', array('title' => __('Trang chủ', true), 'target' => '_blank', 'escape' => false, 'class' => 'logo tooltip')); ?>	</div> <!--  end #left_top -->
 
 	<div id="left_middle">
 		<?php

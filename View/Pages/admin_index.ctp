@@ -12,14 +12,7 @@
 		<div class="tab_container">
 			<div id="tab1" class="tab_content">
 				
-				<?php if(!empty($oneweb_product['enable'])){?>
-				<div class="box_manager col_2 product">
-					<?php echo $this->Html->image('admin/product.jpg')?>
-					<div class="box_manager_middle">
 
-					</div> <!--  end .box_manager_middle -->
-				</div> <!--  end .box_manager -->
-				<?php }?>
 
 				<?php if(!empty($oneweb_post['enable'])){?> 
 				<div class="box_manager col_1 post">
